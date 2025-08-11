@@ -1,5 +1,5 @@
 <h1>Exploring Emotional Progression in Text Using a Hybrid BERT-DSL Model</h1>
-Motivation / Introduction
+
 This project explores an advanced form of sentiment analysis that extends beyond traditional sentence-level classification. Real-world textual data — such as customer reviews, social media posts, and feedback — often exhibits varying emotions across different parts of a paragraph.
 
 We introduce a novel modeling layer called the Delta Sentiment Layer (DSL). When used in conjunction with a BERT-based architecture, it tracks emotional progression within a paragraph, offering a richer and more nuanced interpretation of sentiment.
