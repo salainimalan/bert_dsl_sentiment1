@@ -1,5 +1,13 @@
 <h1>Exploring Emotional Progression in Text Using a Hybrid BERT-DSL Model</h1>
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c?logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-ffcc00?logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/Model-BERT-green)
+![NLP](https://img.shields.io/badge/NLP-Text%20Classification-purple)
+![CUDA](https://img.shields.io/badge/CUDA-GPU%20Training-76b900?logo=nvidia&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Metrics-f7931e?logo=scikitlearn&logoColor=white)
+
 This project explores an advanced form of sentiment analysis that extends beyond traditional sentence-level classification. Real-world textual data — such as customer reviews, social media posts, and feedback — often exhibits varying emotions across different parts of a paragraph.
 
 We introduce a novel modeling layer called the Delta Sentiment Layer (DSL). When used in conjunction with a BERT-based architecture, it tracks emotional progression within a paragraph, offering a richer and more nuanced interpretation of sentiment.
